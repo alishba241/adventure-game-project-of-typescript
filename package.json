@@ -1,0 +1,21 @@
+{
+  "name": "developper99-adventure-game",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "adventure game using typescript node.js and inquirer.",
+  "main": "app2.js",
+  "bin": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.5"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
